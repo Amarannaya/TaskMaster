@@ -3,7 +3,8 @@
 
 - TaskMaster Dapp is a decentralised web 3.0 based Todo List, that is  secure and distributed while maintaining privacy and transparency, built on the Ethereum blockchain<br/><br/>
 Users can, Add tasks, modify task status and delete tasks that have been marked completed. Only the tasks created by users can be modified by that user.
-Any user can view the tasks and also its status.
+Any user can view the tasks and also its status. <br><br>
+This app is a simple application that allows users to manage their to-do list by leveraging the power of a decentralized network such as Ethereum. It provides basic functionality for adding, completing, and deleting tasks while leveraging the security and transparency of blockchain technology.
 
 ## **Project Overview** <br/>
 
@@ -38,7 +39,7 @@ Any user can view the tasks and also its status.
 
 - Clone the repository
 ```git
-git clone (https://github.com/Amarannaya/Grandida_Project)
+git clone (https://github.com/Amarannaya/TaskMaster)
 ```
 * Enter client directory
 ```bash
@@ -83,19 +84,8 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 - [Vite Documentation](https://vitejs.dev/) – learn about Vite features and API.
 
 
-## **🔮 Usage**
-To use this application as your own, follow these simple steps:
 
-Fork this Repository (https://github.com/Amarannaya/Grandida_Project.git)
 
-Install Dependecies (npm install)
-
-Run Project (npm run dev)
-
-## **Developer-centric options**
-
-As a little deter, the contract address(Admin) has been hardcoded, users can only interact as voters.
-you can write to the author for the admin access, it will granted.
 
 
 ## **🤝Contribute**
