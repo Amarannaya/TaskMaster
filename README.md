@@ -68,6 +68,10 @@ Then copy the contract address and paste in 'client/src/config.js'.
 
 This is a [wagmi](https://wagmi.sh) + [RainbowKit](https://rainbowkit.com) + [Vite](https://vitejs.dev/) project bootstrapped with [`create-wagmi`](https://github.com/wagmi-dev/wagmi/tree/main/packages/create-wagmi)
 
+
+**Styled using Bulma CSS**
+- (https://bulma.io)
+
 # Getting Started
 
 Run `npm run dev` in your terminal, and then open [localhost:5173](http://localhost:5173) in your browser.
